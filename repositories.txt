@@ -1,3 +1,7 @@
+https://github.com/You-010/HCSR04_ESP_Hardware
+https://github.com/gevindug/HW827_PPG
+https://github.com/Vean/FansElectronics_DMD32
+https://github.com/MaratDevT/SimpleCode
 https://github.com/GavinnnTann/HLK-ZW-Fingerprint-Sensor
 https://github.com/apadevices/APALCDGUI
 https://github.com/mbrraghu/2WD_Robot
@@ -1396,6 +1400,8 @@ https://github.com/alireza7575/MKS_SERVO42
 https://github.com/alireza7575/MKS_SERVO57
 https://github.com/alkonosst/AdvancedCLI
 https://github.com/alkonosst/ADS1115
+https://github.com/alkonosst/ByteFrame
+https://github.com/alkonosst/BytePack
 https://github.com/alkonosst/LoRa-E22T
 https://github.com/alkonosst/MCP23017
 https://github.com/alkonosst/ReactiveESP32
@@ -7460,6 +7466,7 @@ https://github.com/tanakamasayuki/PCMFlowG711
 https://github.com/tanakamasayuki/PCMFlowG722
 https://github.com/tanakamasayuki/PCMFlowOpus
 https://github.com/tanakamasayuki/LGFXVirtualCanvas
+https://github.com/tanakamasayuki/LGFXScreenBuilder
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8980,6 +8987,7 @@ https://github.com/UNIT-Electronics-MX/unit_bma250_library
 https://github.com/UNIT-Electronics-MX/unit_uanima_library
 https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323
 https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -9184,6 +9192,7 @@ https://github.com/ayatec-europe/AyatecSensoraya2.x
 https://github.com/moddoio/moddoMOUSE-Arduino
 https://github.com/adafruit/Adafruit_APDS9999.git
 https://github.com/dunknowcoding/DiFinders
+https://github.com/dunknowcoding/ArduinoNRF-Crypto
 https://github.com/dunknowcoding/ArduinoNRF-IMU
 https://github.com/dunknowcoding/ArduinoNRF-Zigbee
 https://github.com/dunknowcoding/RoboServo.git
@@ -9542,3 +9551,22 @@ https://github.com/devjune-apiota/apiota-esp32
 https://github.com/dmdengineeringllc/DMD_AllocTrace
 https://github.com/dunknowcoding/ArduinoNRF-Thread
 https://github.com/OperatorFoundation/AudioCodec
+https://github.com/m5stack/M5Hat-Mini-JoyC
+https://github.com/pjscruggs/Time64
+https://github.com/pjscruggs/Timezone64
+https://github.com/pjscruggs/NeoGPS-GarminClock
+https://github.com/pjscruggs/TLC5947_SplitLatch
+https://github.com/bluerobotics/BlueRobotics_TMP119_Library
+https://github.com/jshaw/SJSArray
+https://github.com/superdmz/SuperDMZ-Arduino
+https://github.com/Lonely-Binary/FluxGrid
+https://github.com/lasselukkari/ArduinoJsonLogic
+https://github.com/n-car/rpc-arduino-toolkit
+https://github.com/Lonely-Binary/Coin-Acceptor
+https://github.com/zenopcb/zenopcb-iot-platform.git
+https://github.com/HiTECH-Corporation/R4-WifiManager.git
+https://github.com/iliaslamprou/VirtuinoCloud
+https://github.com/thehiddenguy13/UsefullCommands
+https://github.com/dukang1996/DroneCAN_ESP32
+https://github.com/levkovigor/AODV
+https://github.com/emakefun-arduino-library/aq01
